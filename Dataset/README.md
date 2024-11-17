@@ -52,4 +52,3 @@ Each of the 7356 RAVDESS files has a unique filename. The filename consists of a
 
 ---
 
-This structured format makes it easy for users to understand the dataset and its characteristics. Add it to your `README.md` and push the changes to your GitHub repository.
